@@ -1,0 +1,13 @@
+import java.time.LocalDate;
+
+public class Test {
+
+   public static void main(String[] args) {
+
+      LocalDate date = LocalDate.of(2014, 9, 11);
+
+      System.out.println("Date Value: "+date);
+
+   }
+
+}
